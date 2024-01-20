@@ -15,8 +15,6 @@ This repository contains a Flow blockchain project implementing a custom Fungibl
 
 ## Author
 
-[Opeyemi Esther Agbaje](https://github.com/esteriella)
+[Ayoade Abdulrahman](https://github.com/ayoade96)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
