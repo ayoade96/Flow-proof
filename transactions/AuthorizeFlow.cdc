@@ -1,5 +1,5 @@
-import FungibleToken from 0x01
-import FlowToken from 0x01
+import FungibleToken from 0x05
+import FlowToken from 0x05
 
 transaction (_allowedAmount: UFix64){
     // Declare a reference to the FlowToken Administrator resource

@@ -1,6 +1,6 @@
-import FungibleToken from 0x01
-import FlowToken from 0x01
-import HotToken from 0x01
+import FungibleToken from 0x05
+import FlowToken from 0x05
+import HotToken from 0x05
 
 // SwapToken contract: Facilitates token swapping between HotToken and FlowToken
 pub contract SwapToken {

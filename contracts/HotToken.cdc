@@ -1,4 +1,4 @@
-import FungibleToken from 0x01
+import FungibleToken from 0x05
 
 // HotToken contract: Implements fungible token on Flow blockchain
 pub contract HotToken: FungibleToken {

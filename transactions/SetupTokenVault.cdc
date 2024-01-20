@@ -1,5 +1,5 @@
-import FungibleToken from 0x01
-import HotToken from 0x01
+import FungibleToken from 0x05
+import HotToken from 0x05
 
 transaction() {
 

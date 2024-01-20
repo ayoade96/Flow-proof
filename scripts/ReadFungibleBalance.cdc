@@ -1,4 +1,4 @@
-import FungibleToken from 0x01
+import FungibleToken from 0x05
 
 // Function to get balances of FungibleToken vaults for a given user
 pub fun main(user: Address): {UInt64: UFix64} {

@@ -1,4 +1,4 @@
-import SwapToken from 0x01
+import SwapToken from 0x05
 
 transaction(amount: UFix64) {
 

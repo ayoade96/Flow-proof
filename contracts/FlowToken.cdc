@@ -1,4 +1,4 @@
-import FungibleToken from 0x01
+import FungibleToken from 0x05
 
 // Official Flow Token Contract
 pub contract FlowToken: FungibleToken {

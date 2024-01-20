@@ -1,4 +1,4 @@
-import HotToken from 0x01
+import HotToken from 0x05
 
 pub fun main() {
 

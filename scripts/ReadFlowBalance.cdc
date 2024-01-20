@@ -1,5 +1,5 @@
-import FungibleToken from 0x01
-import FlowToken from 0x01
+import FungibleToken from 0x05
+import FlowToken from 0x05
 
 // Function to retrieve the balance of a FlowToken vault
 pub fun getFlowVaultBalance(account: Address): UFix64? {
